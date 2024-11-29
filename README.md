@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **School Location API**
 
 ## **Overview**
@@ -205,3 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or issues, feel free to reach out via [GitHub Issues](https://github.com/your-repo/school-location-api/issues) or email us at support@yourdomain.com.
 
+=======
+# school_management
+This API can be used for applications that need to access information about schools, their locations, and find the nearest schools to a specific point.
+>>>>>>> ec6b384a40dec7fc34bf45cbd41e489a7889598e
