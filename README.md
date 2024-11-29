@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **School Location API**
 
 ## **Overview**
@@ -204,4 +203,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## **Contact**
 
-For any queries or issues, feel free to reach out via [GitHub Issues](https://github.com/your-repo/school-location-api/issues) or email us at support@yourdomain.com.
+For any queries or issues, feel free to reach out via [GitHub Issues](https://github.com/your-repo/school-location-api/issues) or email us at deepakyad18@.com.
